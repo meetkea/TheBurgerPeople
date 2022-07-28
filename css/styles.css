@@ -1,0 +1,102 @@
+#header {
+  background-color: black;
+}
+
+#hero {
+  background-color: black;
+}
+
+.burger-image {
+  width: 100%;
+}
+
+/* Navigation Bar */
+.navbar-brand {
+  font-family: 'Albert Sans';
+  font-size: 2rem;
+}
+
+.nav-link {
+  font-family: 'Albert Sans';
+  font-size: 1.5rem;
+  color: white;
+}
+
+.nav-item {
+  padding: 0 25px;
+}
+
+h1 {
+  color: white;
+  font-family: 'Albert Sans';
+  font-size: 5.7rem;
+  font-weight: 800;
+  padding: 100px 0 40px;
+}
+
+.order-button {
+  font-family: 'Albert Sans';
+  font-size: 1.5rem;
+}
+
+/* Menu section */
+#menu {
+  margin: 40px;
+  font-family: 'Kanit';
+}
+
+p{
+  font-size: 20px;
+  font-family: 'Kanit';
+  font-weight: 200;
+}
+
+h3 {
+  font-size: 2.5rem;
+  text-align: center;
+  font-family: 'Albert Sans';
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+
+li {
+  font-size: 1.2em;
+  font-family: 'Kanit';
+}
+
+/* Call To Action */
+#contact {
+  background-color: #040303;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Albert Sans';
+  font-size: 2rem;
+}
+
+h5 {
+  font-family: 'Albert Sans';
+}
+
+.icons {
+  padding: 0 25px;
+  margin-bottom: 50px;
+  color: white;
+}
+
+.follow {
+  color: white;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+/* Footer */
+.footer {
+  background-color: #040303;
+  color: white;
+  font-family: 'Albert Sans';
+  text-align: center;
+  padding-bottom: 10px;
+}
